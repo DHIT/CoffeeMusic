@@ -1,2 +1,2 @@
-# Projects
-Projects of the DH Information Technology
+# CoffeeMusic
+The CoffeeMusic project of the DH Information Technology
